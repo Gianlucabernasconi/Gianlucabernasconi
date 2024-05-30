@@ -31,19 +31,32 @@ And I'm constantly improving on it 👾
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/></code>
 </div>
 
+
 ### Projects
 
 <div align="center">
   <table>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 10px;">
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
         <img src="https://i.ibb.co/dfXwvq7/lofi.png" alt="Lofi Music Channel" width="300"/>
-        <p><a href="https://663c5f1ebab5d060196b88f0--lofi-channel.netlify.app/">Visit Lofi Music Channel</a></p>
+        <p>
+          <a href="https://663c5f1ebab5d060196b88f0--lofi-channel.netlify.app/">
+            <img src="https://img.shields.io/badge/Take%20a%20look-%23FF5722?link=https%3A%2F%2F663c5f1ebab5d060196b88f0--lofi-channel.netlify.app%2F" alt="Take a look" />
+          </a>
+        </p>
       </td>
-      <td style="border: 1px solid #ddd; padding: 10px;">
+      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
         <img src="https://i.ibb.co/vPdb7pN/criptodragon.png" alt="CriptoDragon" width="300"/>
-        <p><a href="https://criptodragon.netlify.app/">Visit CriptoDragon</a></p>
+        <p>
+          <a href="https://criptodragon.netlify.app/">
+            <img src="https://img.shields.io/badge/Take%20a%20look-%23FF5722?link=https%3A%2F%2Fcriptodragon.netlify.app%2F" alt="Take a look" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
+
+
+
+
