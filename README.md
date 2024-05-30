@@ -17,7 +17,11 @@ Ah! I'm also a psychologist, which makes me a huge fan of UX. I'm really passion
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
+<br>
+
 And I'm constantly improving on it 👾
+
+<br>
 
 ## What Technologies Am I Learning
 
@@ -31,6 +35,7 @@ And I'm constantly improving on it 👾
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/></code>
 </div>
 
+<br>
 
 ### Projects
 
@@ -56,6 +61,7 @@ And I'm constantly improving on it 👾
     </tr>
   </table>
 </div>
+
 
 
 
