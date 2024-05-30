@@ -53,7 +53,7 @@ And I'm constantly improving on it 👾
   <table>
     <tr>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <img src="https://i.ibb.co/dfXwvq7/lofi.png" alt="Lofi Music Channel" width="300"/>
+        <img src="https://i.ibb.co/5KkVbPx/lofi.png" width="300"/>
         <p>
           <a href="https://663c5f1ebab5d060196b88f0--lofi-channel.netlify.app/">
             <img src="https://img.shields.io/badge/Take%20a%20look-%23FF5722?link=https%3A%2F%2F663c5f1ebab5d060196b88f0--lofi-channel.netlify.app%2F" alt="Take a look" />
