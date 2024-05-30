@@ -1,10 +1,20 @@
-### Hi there, I'm Gian 👋
 
+
+
+
+<div align="center">
+  <img src="https://i.ibb.co/S7rgyhs/Banner-Youtube-Pixel-Art-Neon-Colorido-1.png" alt="Banner" width="1000"/>
+</div>
+
+ <br>
+ 
 Are you looking for web development? Awesome! On this profile, we love it 💚
 
 I'm a Programmer Analyst student at [Iplacex](https://www.iplacex.cl/), focused on front-end development. My main skills are JavaScript, CSS, HTML, and WordPress.
 
 Ah! I'm also a psychologist, which makes me a huge fan of UX. I'm really passionate about improving my skills to create projects that impress and captivate users, giving them a unique experience 🧙
+
+<br>
 
 ## What Technologies I Know
 
