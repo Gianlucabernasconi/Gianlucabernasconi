@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/S7rgyhs/Banner-Youtube-Pixel-Art-Neon-Colorido-1.png" alt="Banner" width="1000"/>
+  <img src="https://i.ibb.co/gPV6pqW/111c22-1.png"/>
 </div>
 
  <br>
