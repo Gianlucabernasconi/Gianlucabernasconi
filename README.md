@@ -47,7 +47,7 @@ And I'm constantly improving on it 👾
 
 <br>
 
-### Projects
+## Projects
 
 <div align="center">
   <table>
@@ -72,6 +72,29 @@ And I'm constantly improving on it 👾
   </table>
 </div>
 
+### About Me:
+
+<table style="border: 1px solid #ddd; padding: 10px; width: 100%;">
+  <tr>
+    <td>
+      <ul>
+        <li>👾 <strong>Programming</strong>: I love diving into code and creating amazing web applications.</li>
+        <li>📚 <strong>Literature</strong>: I'm an avid reader, especially of horror and fantasy literature.</li>
+        <li>🎮 <strong>Video Games</strong>: My favorite genres are horror and RPGs. Gaming is a big part of my life!</li>
+        <li>🏋️‍♂️ <strong>Fitness</strong>: I practice calisthenics to stay fit and healthy.</li>
+        <li>🤖 <strong>Geek Culture</strong>: I'm a huge fan of retro and vintage geek culture. From classic video games to vintage tech, I love it all!</li>
+        <li>🎸 <strong>Music</strong>: I enjoy listening to rock and lofi music.</li>
+      </ul>
+      <p>Feel free to reach out to me if you want to chat about web development, UX design, or any of my other interests!</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://i.ibb.co/gzzRZVk/Copia-de-Banner-Github-Este-si-sirve.gif" alt="Working on Code GIF" />
+</div>
 
 
 
