@@ -3,14 +3,14 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/gPV6pqW/111c22-1.png"/>
+  <img src="https://i.ibb.co/qkqNvDc/Banner-Github-Este-si-sirve.png"/>
 </div>
 
  <br>
  
 Are you looking for web development? Awesome! On this profile, we love it 💚
 
-I'm a Programmer Analyst student at [Iplacex](https://www.iplacex.cl/), focused on front-end development. My main skills are JavaScript, CSS, HTML, and WordPress.
+I'm a Front-end Developer studying the Programmer Analyst career at Iplacex, focused on front-end development. My main skills are JavaScript, Vue Js, CSS, HTML, and WordPress.
 
 Ah! I'm also a psychologist, which makes me a huge fan of UX. I'm really passionate about improving my skills to create projects that impress and captivate users, giving them a unique experience 🧙
 
