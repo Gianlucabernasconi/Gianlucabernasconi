@@ -10,7 +10,7 @@
  
 Are you looking for web development? Awesome! On this profile, we love it 💚
 
-I'm a Front-end Developer studying the Programmer Analyst career at Iplacex, focused on front-end development. My main skills are JavaScript, Vue Js, CSS, HTML, and WordPress.
+I'm a Front-end Developer studying the Programmer Analyst career at [Iplacex](https://www.iplacex.cl/), focused on front-end development. My main skills are JavaScript, Vue.js, CSS, HTML, and WordPress.
 
 Ah! I'm also a psychologist, which makes me a huge fan of UX. I'm really passionate about improving my skills to create projects that impress and captivate users, giving them a unique experience 🧙
 
