@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/qkqNvDc/Banner-Github-Este-si-sirve.png"/>
+  <img src="https://i.ibb.co/XWvZFB1/githubp.png"/>
 </div>
 
  <br>
